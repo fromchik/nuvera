@@ -6,7 +6,14 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "typecheck": "tsc --noEmit -p tsconfig.typecheck.json",
+    "check:assets": "node scripts/check-webflow-assets.js",
+    "audit:routes": "node scripts/audit-webflow-routes.js",
+    "audit:css": "node scripts/audit-webflow-css-urls.js",
+    "audit:i18n": "node scripts/audit-i18n-routes.js",
+    "generate:migration": "node scripts/generate-webflow-migration.js",
+    "verify:migration": "npm run check:assets && npm run audit:css && npm run audit:routes && npm run audit:i18n && npm run typecheck && npm run lint && npm run build"
   },
   "dependencies": {
     "next": "16.2.10",

@@ -1,0 +1,2 @@
+/* Next migration note: Next.js 16/Turbopack does not build with @import from public/. */
+/* The preserved Webflow stylesheet is linked from src/app/layout.tsx instead. */

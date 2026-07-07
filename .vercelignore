@@ -1,0 +1,16 @@
+.next
+node_modules
+coverage
+*.log
+*.tsbuildinfo
+next-env.d.ts
+
+# Migration-only working files are not needed by Vercel builds.
+ASSET_AUDIT.md
+EXTERNAL_DEPENDENCIES.md
+MIGRATION_REPORT.md
+MISSING_ASSETS.md
+ROUTE_MAP.md
+WEBFLOW_FEATURES_AUDIT.md
+WEBFLOW_MIGRATION_PLAN.md
+nuvera-store-webflow-mirror
