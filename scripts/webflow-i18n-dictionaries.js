@@ -179,8 +179,8 @@ const phraseMaps = {
     "Email *": "Электронная почта *",
     "Browse our shop for quality essentials":
       "Выбирайте в нашем магазине качественные средства на каждый день",
-    "Browse our shop for quality essentials. Discover premium skincare products including serums, cleansers, toners, and SPF from Nuvéra.":
-      "Выбирайте в нашем магазине качественные средства на каждый день. Откройте премиальные продукты для ухода за кожей, включая сыворотки, очищающие средства, тонеры и SPF от Nuvéra.",
+    "Browse our shop for quality essentials. Discover premium skincare products including serums, cleansers, toners, and SPF from PureGlow.":
+      "Выбирайте в нашем магазине качественные средства на каждый день. Откройте премиальные продукты для ухода за кожей, включая сыворотки, очищающие средства, тонеры и SPF от PureGlow.",
     Next: "Далее",
     "Browse Cleanser products at PureGlow. Discover quality essentials with detailed descriptions and competitive pricing. Shop now!":
       "Просматривайте очищающие средства PureGlow. Откройте качественные товары с подробными описаниями и честными ценами. Покупайте сейчас!",
@@ -488,8 +488,8 @@ const phraseMaps = {
     "Email *": "Електронна пошта *",
     "Browse our shop for quality essentials":
       "Переглядайте наш магазин якісних щоденних засобів",
-    "Browse our shop for quality essentials. Discover premium skincare products including serums, cleansers, toners, and SPF from Nuvéra.":
-      "Переглядайте наш магазин якісних щоденних засобів. Відкрийте преміальні засоби догляду за шкірою, зокрема сироватки, очищувальні засоби, тонери та SPF від Nuvéra.",
+    "Browse our shop for quality essentials. Discover premium skincare products including serums, cleansers, toners, and SPF from PureGlow.":
+      "Переглядайте наш магазин якісних щоденних засобів. Відкрийте преміальні засоби догляду за шкірою, зокрема сироватки, очищувальні засоби, тонери та SPF від PureGlow.",
     Next: "Далі",
     "Browse Cleanser products at PureGlow. Discover quality essentials with detailed descriptions and competitive pricing. Shop now!":
       "Переглядайте засоби для очищення PureGlow. Відкрийте якісні товари з докладними описами та чесними цінами. Купуйте зараз!",
@@ -626,30 +626,30 @@ const phraseMaps = {
 const supplementalPhraseMaps = {
   ru: {
     "Not Found": "Не найдено",
-    "The page you&#x27;re looking for doesn&#x27;t exist or has been moved. Return to Nuvéra&#x27;s homepage to continue browsing our products and content.":
-      "Страница, которую вы ищете, не существует или была перемещена. Вернитесь на главную страницу Nuvéra, чтобы продолжить просмотр наших товаров и материалов.",
-    "Discover Nuvéra&#x27;s commitment to clean, effective skincare. 50+ products crafted with natural ingredients, eco-friendly packaging, and 98% positive reviews.":
-      "Откройте для себя подход Nuvéra к чистому и эффективному уходу за кожей. Более 50 продуктов с натуральными ингредиентами, экологичной упаковкой и 98% положительных отзывов.",
+    "The page you&#x27;re looking for doesn&#x27;t exist or has been moved. Return to PureGlow&#x27;s homepage to continue browsing our products and content.":
+      "Страница, которую вы ищете, не существует или была перемещена. Вернитесь на главную страницу PureGlow, чтобы продолжить просмотр наших товаров и материалов.",
+    "Discover PureGlow&#x27;s commitment to clean, effective skincare. 50+ products crafted with natural ingredients, eco-friendly packaging, and 98% positive reviews.":
+      "Откройте для себя подход PureGlow к чистому и эффективному уходу за кожей. Более 50 продуктов с натуральными ингредиентами, экологичной упаковкой и 98% положительных отзывов.",
     "Discover the latest skincare tips, clean beauty insights, and expert advice on plant-based ingredients for healthy, balanced skin.":
       "Откройте для себя свежие советы по уходу за кожей, идеи чистой косметики и экспертные рекомендации по растительным ингредиентам для здоровой и сбалансированной кожи.",
-    "Browse Nuvéra&#x27;s complete beauty collection. Shop skincare categories including serums, cleansers, moisturizers, SPF, lotions, toner, and more.":
-      "Изучите полную beauty-коллекцию Nuvéra. Покупайте средства по категориям: сыворотки, очищение, увлажнение, SPF, лосьоны, тонеры и многое другое.",
+    "Browse PureGlow&#x27;s complete beauty collection. Shop skincare categories including serums, cleansers, moisturizers, SPF, lotions, toner, and more.":
+      "Изучите полную beauty-коллекцию PureGlow. Покупайте средства по категориям: сыворотки, очищение, увлажнение, SPF, лосьоны, тонеры и многое другое.",
     "Complete your purchase securely. Enter shipping and payment details to finalize your order. Multiple shipping options available with secure payment processing.":
       "Безопасно завершите покупку. Введите данные доставки и оплаты, чтобы оформить заказ. Доступно несколько способов доставки и защищённая обработка платежей.",
-    "Reset your Nuvéra account password. Enter your email to receive a secure password reset link and regain access to your account.":
-      "Сбросьте пароль аккаунта Nuvéra. Введите email, чтобы получить безопасную ссылку для сброса и восстановить доступ к аккаунту.",
-    "Learn how Nuvéra collects, uses, and protects your personal information. Read our privacy policy for details on data security, cookies, and your rights.":
-      "Узнайте, как Nuvéra собирает, использует и защищает вашу личную информацию. Прочитайте нашу политику конфиденциальности о безопасности данных, cookie и ваших правах.",
-    "Sign in to your Nuvéra account to access orders, styling notes, and personalized beauty recommendations. Secure encrypted login.":
-      "Войдите в аккаунт Nuvéra, чтобы получить доступ к заказам, заметкам и персональным beauty-рекомендациям. Безопасный зашифрованный вход.",
-    "Join Nuvéra Beauty to save favorites, track orders, and get early access to new collections. Sign up for exclusive offers and secure shopping.":
-      "Присоединяйтесь к Nuvéra Beauty, чтобы сохранять избранное, отслеживать заказы и получать ранний доступ к новым коллекциям. Регистрируйтесь ради эксклюзивных предложений и безопасных покупок.",
-    "View the latest updates, improvements, and fixes for Nuvéra Beauty. Track site enhancements, bug fixes, and new features from launch to present.":
-      "Посмотрите последние обновления, улучшения и исправления Nuvéra Beauty. Отслеживайте улучшения сайта, багфиксы и новые функции с запуска по настоящее время.",
-    "View license terms, usage rights, and restrictions for the Nuvéra beauty ecommerce template. Includes project files, components, support, and updates.":
-      "Просмотрите условия лицензии, права использования и ограничения для beauty eCommerce-шаблона Nuvéra. Включает файлы проекта, компоненты, поддержку и обновления.",
-    "Explore Nuvéra&#x27;s brand style guide including color palette, typography scale, and button variants. Complete design system documentation.":
-      "Изучите брендовый гайд Nuvéra: палитру цветов, шкалу типографики и варианты кнопок. Полная документация по дизайн-системе.",
+    "Reset your PureGlow account password. Enter your email to receive a secure password reset link and regain access to your account.":
+      "Сбросьте пароль аккаунта PureGlow. Введите email, чтобы получить безопасную ссылку для сброса и восстановить доступ к аккаунту.",
+    "Learn how PureGlow collects, uses, and protects your personal information. Read our privacy policy for details on data security, cookies, and your rights.":
+      "Узнайте, как PureGlow собирает, использует и защищает вашу личную информацию. Прочитайте нашу политику конфиденциальности о безопасности данных, cookie и ваших правах.",
+    "Sign in to your PureGlow account to access orders, styling notes, and personalized beauty recommendations. Secure encrypted login.":
+      "Войдите в аккаунт PureGlow, чтобы получить доступ к заказам, заметкам и персональным beauty-рекомендациям. Безопасный зашифрованный вход.",
+    "Join PureGlow Beauty to save favorites, track orders, and get early access to new collections. Sign up for exclusive offers and secure shopping.":
+      "Присоединяйтесь к PureGlow Beauty, чтобы сохранять избранное, отслеживать заказы и получать ранний доступ к новым коллекциям. Регистрируйтесь ради эксклюзивных предложений и безопасных покупок.",
+    "View the latest updates, improvements, and fixes for PureGlow Beauty. Track site enhancements, bug fixes, and new features from launch to present.":
+      "Посмотрите последние обновления, улучшения и исправления PureGlow Beauty. Отслеживайте улучшения сайта, багфиксы и новые функции с запуска по настоящее время.",
+    "View license terms, usage rights, and restrictions for the PureGlow beauty ecommerce template. Includes project files, components, support, and updates.":
+      "Просмотрите условия лицензии, права использования и ограничения для beauty eCommerce-шаблона PureGlow. Включает файлы проекта, компоненты, поддержку и обновления.",
+    "Explore PureGlow&#x27;s brand style guide including color palette, typography scale, and button variants. Complete design system documentation.":
+      "Изучите брендовый гайд PureGlow: палитру цветов, шкалу типографики и варианты кнопок. Полная документация по дизайн-системе.",
     "Cleanser - PureGlow Webflow Ecommerce Website Template":
       "Очищение - PureGlow, шаблон интернет-магазина Webflow",
     "Moisturiser - PureGlow Webflow Ecommerce Website Template":
@@ -781,30 +781,30 @@ const supplementalPhraseMaps = {
   },
   ua: {
     "Not Found": "Не знайдено",
-    "The page you&#x27;re looking for doesn&#x27;t exist or has been moved. Return to Nuvéra&#x27;s homepage to continue browsing our products and content.":
-      "Сторінка, яку ви шукаєте, не існує або була переміщена. Поверніться на головну сторінку Nuvéra, щоб продовжити перегляд наших товарів і матеріалів.",
-    "Discover Nuvéra&#x27;s commitment to clean, effective skincare. 50+ products crafted with natural ingredients, eco-friendly packaging, and 98% positive reviews.":
-      "Відкрийте для себе підхід Nuvéra до чистого й ефективного догляду за шкірою. Понад 50 продуктів із натуральними інгредієнтами, екологічною упаковкою та 98% позитивних відгуків.",
+    "The page you&#x27;re looking for doesn&#x27;t exist or has been moved. Return to PureGlow&#x27;s homepage to continue browsing our products and content.":
+      "Сторінка, яку ви шукаєте, не існує або була переміщена. Поверніться на головну сторінку PureGlow, щоб продовжити перегляд наших товарів і матеріалів.",
+    "Discover PureGlow&#x27;s commitment to clean, effective skincare. 50+ products crafted with natural ingredients, eco-friendly packaging, and 98% positive reviews.":
+      "Відкрийте для себе підхід PureGlow до чистого й ефективного догляду за шкірою. Понад 50 продуктів із натуральними інгредієнтами, екологічною упаковкою та 98% позитивних відгуків.",
     "Discover the latest skincare tips, clean beauty insights, and expert advice on plant-based ingredients for healthy, balanced skin.":
       "Дізнавайтеся про свіжі поради з догляду за шкірою, ідеї clean beauty та експертні рекомендації щодо рослинних інгредієнтів для здорової й збалансованої шкіри.",
-    "Browse Nuvéra&#x27;s complete beauty collection. Shop skincare categories including serums, cleansers, moisturizers, SPF, lotions, toner, and more.":
-      "Перегляньте повну beauty-колекцію Nuvéra. Купуйте засоби за категоріями: сироватки, очищення, зволоження, SPF, лосьйони, тонери та багато іншого.",
+    "Browse PureGlow&#x27;s complete beauty collection. Shop skincare categories including serums, cleansers, moisturizers, SPF, lotions, toner, and more.":
+      "Перегляньте повну beauty-колекцію PureGlow. Купуйте засоби за категоріями: сироватки, очищення, зволоження, SPF, лосьйони, тонери та багато іншого.",
     "Complete your purchase securely. Enter shipping and payment details to finalize your order. Multiple shipping options available with secure payment processing.":
       "Безпечно завершіть покупку. Введіть дані доставки й оплати, щоб оформити замовлення. Доступно кілька способів доставки та захищена обробка платежів.",
-    "Reset your Nuvéra account password. Enter your email to receive a secure password reset link and regain access to your account.":
-      "Скиньте пароль акаунта Nuvéra. Введіть email, щоб отримати безпечне посилання для скидання та відновити доступ до акаунта.",
-    "Learn how Nuvéra collects, uses, and protects your personal information. Read our privacy policy for details on data security, cookies, and your rights.":
-      "Дізнайтеся, як Nuvéra збирає, використовує та захищає вашу особисту інформацію. Прочитайте нашу політику конфіденційності про безпеку даних, cookie та ваші права.",
-    "Sign in to your Nuvéra account to access orders, styling notes, and personalized beauty recommendations. Secure encrypted login.":
-      "Увійдіть до акаунта Nuvéra, щоб отримати доступ до замовлень, нотаток і персоналізованих beauty-рекомендацій. Безпечний зашифрований вхід.",
-    "Join Nuvéra Beauty to save favorites, track orders, and get early access to new collections. Sign up for exclusive offers and secure shopping.":
-      "Приєднуйтеся до Nuvéra Beauty, щоб зберігати обране, відстежувати замовлення та отримувати ранній доступ до нових колекцій. Реєструйтеся заради ексклюзивних пропозицій і безпечних покупок.",
-    "View the latest updates, improvements, and fixes for Nuvéra Beauty. Track site enhancements, bug fixes, and new features from launch to present.":
-      "Перегляньте останні оновлення, покращення та виправлення Nuvéra Beauty. Відстежуйте покращення сайту, багфікси та нові функції від запуску до сьогодні.",
-    "View license terms, usage rights, and restrictions for the Nuvéra beauty ecommerce template. Includes project files, components, support, and updates.":
-      "Перегляньте умови ліцензії, права використання та обмеження для beauty eCommerce-шаблону Nuvéra. Містить файли проєкту, компоненти, підтримку та оновлення.",
-    "Explore Nuvéra&#x27;s brand style guide including color palette, typography scale, and button variants. Complete design system documentation.":
-      "Ознайомтеся з бренд-гайдом Nuvéra: палітрою кольорів, шкалою типографіки та варіантами кнопок. Повна документація дизайн-системи.",
+    "Reset your PureGlow account password. Enter your email to receive a secure password reset link and regain access to your account.":
+      "Скиньте пароль акаунта PureGlow. Введіть email, щоб отримати безпечне посилання для скидання та відновити доступ до акаунта.",
+    "Learn how PureGlow collects, uses, and protects your personal information. Read our privacy policy for details on data security, cookies, and your rights.":
+      "Дізнайтеся, як PureGlow збирає, використовує та захищає вашу особисту інформацію. Прочитайте нашу політику конфіденційності про безпеку даних, cookie та ваші права.",
+    "Sign in to your PureGlow account to access orders, styling notes, and personalized beauty recommendations. Secure encrypted login.":
+      "Увійдіть до акаунта PureGlow, щоб отримати доступ до замовлень, нотаток і персоналізованих beauty-рекомендацій. Безпечний зашифрований вхід.",
+    "Join PureGlow Beauty to save favorites, track orders, and get early access to new collections. Sign up for exclusive offers and secure shopping.":
+      "Приєднуйтеся до PureGlow Beauty, щоб зберігати обране, відстежувати замовлення та отримувати ранній доступ до нових колекцій. Реєструйтеся заради ексклюзивних пропозицій і безпечних покупок.",
+    "View the latest updates, improvements, and fixes for PureGlow Beauty. Track site enhancements, bug fixes, and new features from launch to present.":
+      "Перегляньте останні оновлення, покращення та виправлення PureGlow Beauty. Відстежуйте покращення сайту, багфікси та нові функції від запуску до сьогодні.",
+    "View license terms, usage rights, and restrictions for the PureGlow beauty ecommerce template. Includes project files, components, support, and updates.":
+      "Перегляньте умови ліцензії, права використання та обмеження для beauty eCommerce-шаблону PureGlow. Містить файли проєкту, компоненти, підтримку та оновлення.",
+    "Explore PureGlow&#x27;s brand style guide including color palette, typography scale, and button variants. Complete design system documentation.":
+      "Ознайомтеся з бренд-гайдом PureGlow: палітрою кольорів, шкалою типографіки та варіантами кнопок. Повна документація дизайн-системи.",
     "Cleanser - PureGlow Webflow Ecommerce Website Template":
       "Очищення - PureGlow, шаблон інтернет-магазину Webflow",
     "Moisturiser - PureGlow Webflow Ecommerce Website Template":
