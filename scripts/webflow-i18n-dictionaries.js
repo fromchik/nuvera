@@ -5,29 +5,29 @@ const localeMap = {
 
 const phraseMaps = {
   ru: {
-    "Nuvera - Webflow Ecommerce Website Template": "Nuvera - шаблон интернет-магазина Webflow",
-    "Blog - Nuvera Webflow Ecommerce Website Template": "Блог - Nuvera, шаблон интернет-магазина Webflow",
-    "About - Nuvera Webflow Ecommerce Website Template": "О нас - Nuvera, шаблон интернет-магазина Webflow",
-    "Shop - Nuvera Webflow Ecommerce Website Template": "Магазин - Nuvera, шаблон интернет-магазина Webflow",
-    "Category - Nuvera Webflow Ecommerce Website Template": "Категория - Nuvera, шаблон интернет-магазина Webflow",
-    "Privacy Policy - Nuvera Webflow Ecommerce Website Template":
-      "Политика конфиденциальности - Nuvera, шаблон интернет-магазина Webflow",
-    "License - Nuvera Webflow Ecommerce Website Template":
-      "Лицензия - Nuvera, шаблон интернет-магазина Webflow",
-    "Style Guide - Nuvera Webflow Ecommerce Website Template":
-      "Гайд по стилю - Nuvera, шаблон интернет-магазина Webflow",
-    "Change Log - Nuvera Webflow Ecommerce Website Template":
-      "Журнал изменений - Nuvera, шаблон интернет-магазина Webflow",
-    "404 - Nuvera Webflow Ecommerce Website Template":
-      "404 - Nuvera, шаблон интернет-магазина Webflow",
-    "Sign In - Nuvera Webflow Ecommerce Website Template":
-      "Вход - Nuvera, шаблон интернет-магазина Webflow",
-    "Sign Up - Nuvera Webflow Ecommerce Website Template":
-      "Регистрация - Nuvera, шаблон интернет-магазина Webflow",
-    "Forget Password - Nuvera Webflow Ecommerce Website Template":
-      "Сброс пароля - Nuvera, шаблон интернет-магазина Webflow",
-    "Checkout - Nuvera Webflow Ecommerce Website Template":
-      "Оформление заказа - Nuvera, шаблон интернет-магазина Webflow",
+    "PureGlow - Webflow Ecommerce Website Template": "PureGlow - шаблон интернет-магазина Webflow",
+    "Blog - PureGlow Webflow Ecommerce Website Template": "Блог - PureGlow, шаблон интернет-магазина Webflow",
+    "About - PureGlow Webflow Ecommerce Website Template": "О нас - PureGlow, шаблон интернет-магазина Webflow",
+    "Shop - PureGlow Webflow Ecommerce Website Template": "Магазин - PureGlow, шаблон интернет-магазина Webflow",
+    "Category - PureGlow Webflow Ecommerce Website Template": "Категория - PureGlow, шаблон интернет-магазина Webflow",
+    "Privacy Policy - PureGlow Webflow Ecommerce Website Template":
+      "Политика конфиденциальности - PureGlow, шаблон интернет-магазина Webflow",
+    "License - PureGlow Webflow Ecommerce Website Template":
+      "Лицензия - PureGlow, шаблон интернет-магазина Webflow",
+    "Style Guide - PureGlow Webflow Ecommerce Website Template":
+      "Гайд по стилю - PureGlow, шаблон интернет-магазина Webflow",
+    "Change Log - PureGlow Webflow Ecommerce Website Template":
+      "Журнал изменений - PureGlow, шаблон интернет-магазина Webflow",
+    "404 - PureGlow Webflow Ecommerce Website Template":
+      "404 - PureGlow, шаблон интернет-магазина Webflow",
+    "Sign In - PureGlow Webflow Ecommerce Website Template":
+      "Вход - PureGlow, шаблон интернет-магазина Webflow",
+    "Sign Up - PureGlow Webflow Ecommerce Website Template":
+      "Регистрация - PureGlow, шаблон интернет-магазина Webflow",
+    "Forget Password - PureGlow Webflow Ecommerce Website Template":
+      "Сброс пароля - PureGlow, шаблон интернет-магазина Webflow",
+    "Checkout - PureGlow Webflow Ecommerce Website Template":
+      "Оформление заказа - PureGlow, шаблон интернет-магазина Webflow",
     "Discover 50+ naturally pure skincare essentials. Cruelty-free, clinically proven formulas for visible results. Shop serums, cleansers &amp; more.":
       "Откройте для себя более 50 натуральных средств ухода за кожей. Без тестирования на животных, клинически проверенные формулы с заметным результатом. Покупайте сыворотки, очищающие средства и многое другое.",
     Home: "Главная",
@@ -182,16 +182,16 @@ const phraseMaps = {
     "Browse our shop for quality essentials. Discover premium skincare products including serums, cleansers, toners, and SPF from Nuvéra.":
       "Выбирайте в нашем магазине качественные средства на каждый день. Откройте премиальные продукты для ухода за кожей, включая сыворотки, очищающие средства, тонеры и SPF от Nuvéra.",
     Next: "Далее",
-    "Browse Cleanser products at Nuvera. Discover quality essentials with detailed descriptions and competitive pricing. Shop now!":
-      "Просматривайте очищающие средства Nuvera. Откройте качественные товары с подробными описаниями и честными ценами. Покупайте сейчас!",
-    "Browse Moisturiser products at Nuvera. Discover quality essentials with detailed descriptions and competitive pricing. Shop now!":
-      "Просматривайте увлажняющие средства Nuvera. Откройте качественные товары с подробными описаниями и честными ценами. Покупайте сейчас!",
-    "Browse Serum products at Nuvera. Discover quality essentials with detailed descriptions and competitive pricing. Shop now!":
-      "Просматривайте сыворотки Nuvera. Откройте качественные товары с подробными описаниями и честными ценами. Покупайте сейчас!",
-    "Browse SPF products at Nuvera. Discover quality essentials with detailed descriptions and competitive pricing. Shop now!":
-      "Просматривайте SPF-средства Nuvera. Откройте качественные товары с подробными описаниями и честными ценами. Покупайте сейчас!",
-    "Browse Toner products at Nuvera. Discover quality essentials with detailed descriptions and competitive pricing. Shop now!":
-      "Просматривайте тонеры Nuvera. Откройте качественные товары с подробными описаниями и честными ценами. Покупайте сейчас!",
+    "Browse Cleanser products at PureGlow. Discover quality essentials with detailed descriptions and competitive pricing. Shop now!":
+      "Просматривайте очищающие средства PureGlow. Откройте качественные товары с подробными описаниями и честными ценами. Покупайте сейчас!",
+    "Browse Moisturiser products at PureGlow. Discover quality essentials with detailed descriptions and competitive pricing. Shop now!":
+      "Просматривайте увлажняющие средства PureGlow. Откройте качественные товары с подробными описаниями и честными ценами. Покупайте сейчас!",
+    "Browse Serum products at PureGlow. Discover quality essentials with detailed descriptions and competitive pricing. Shop now!":
+      "Просматривайте сыворотки PureGlow. Откройте качественные товары с подробными описаниями и честными ценами. Покупайте сейчас!",
+    "Browse SPF products at PureGlow. Discover quality essentials with detailed descriptions and competitive pricing. Shop now!":
+      "Просматривайте SPF-средства PureGlow. Откройте качественные товары с подробными описаниями и честными ценами. Покупайте сейчас!",
+    "Browse Toner products at PureGlow. Discover quality essentials with detailed descriptions and competitive pricing. Shop now!":
+      "Просматривайте тонеры PureGlow. Откройте качественные товары с подробными описаниями и честными ценами. Покупайте сейчас!",
     "Card Number *": "Номер карты *",
     "Expiration Date *": "Срок действия *",
     "Security Code *": "Код безопасности *",
@@ -263,8 +263,8 @@ const phraseMaps = {
       "Наносите Daily SPF щедро как последний шаг утреннего ухода. При нахождении на солнце обновляйте каждые 2 часа.",
     "We offer free delivery on orders over $2,000. Standard delivery takes 3-5 business days. Returns accepted within 14 days of purchase in original condition.":
       "Мы предлагаем бесплатную доставку для заказов свыше $2,000. Стандартная доставка занимает 3-5 рабочих дней. Возврат принимается в течение 14 дней при сохранении исходного состояния.",
-    "Daily SPF - Nuvera Webflow Ecommerce Website Template":
-      "Ежедневный SPF - Nuvera, шаблон интернет-магазина Webflow",
+    "Daily SPF - PureGlow Webflow Ecommerce Website Template":
+      "Ежедневный SPF - PureGlow, шаблон интернет-магазина Webflow",
 
     "5 Eco-Friendly Skincare Swaps for a Sustainable Routine":
       "5 экологичных замен в уходе за кожей для устойчивой рутины",
@@ -314,29 +314,29 @@ const phraseMaps = {
     Zimbabwe: "Зимбабве",
   },
   ua: {
-    "Nuvera - Webflow Ecommerce Website Template": "Nuvera - шаблон інтернет-магазину Webflow",
-    "Blog - Nuvera Webflow Ecommerce Website Template": "Блог - Nuvera, шаблон інтернет-магазину Webflow",
-    "About - Nuvera Webflow Ecommerce Website Template": "Про нас - Nuvera, шаблон інтернет-магазину Webflow",
-    "Shop - Nuvera Webflow Ecommerce Website Template": "Магазин - Nuvera, шаблон інтернет-магазину Webflow",
-    "Category - Nuvera Webflow Ecommerce Website Template": "Категорія - Nuvera, шаблон інтернет-магазину Webflow",
-    "Privacy Policy - Nuvera Webflow Ecommerce Website Template":
-      "Політика конфіденційності - Nuvera, шаблон інтернет-магазину Webflow",
-    "License - Nuvera Webflow Ecommerce Website Template":
-      "Ліцензія - Nuvera, шаблон інтернет-магазину Webflow",
-    "Style Guide - Nuvera Webflow Ecommerce Website Template":
-      "Гайд зі стилю - Nuvera, шаблон інтернет-магазину Webflow",
-    "Change Log - Nuvera Webflow Ecommerce Website Template":
-      "Журнал змін - Nuvera, шаблон інтернет-магазину Webflow",
-    "404 - Nuvera Webflow Ecommerce Website Template":
-      "404 - Nuvera, шаблон інтернет-магазину Webflow",
-    "Sign In - Nuvera Webflow Ecommerce Website Template":
-      "Вхід - Nuvera, шаблон інтернет-магазину Webflow",
-    "Sign Up - Nuvera Webflow Ecommerce Website Template":
-      "Реєстрація - Nuvera, шаблон інтернет-магазину Webflow",
-    "Forget Password - Nuvera Webflow Ecommerce Website Template":
-      "Скидання пароля - Nuvera, шаблон інтернет-магазину Webflow",
-    "Checkout - Nuvera Webflow Ecommerce Website Template":
-      "Оформлення замовлення - Nuvera, шаблон інтернет-магазину Webflow",
+    "PureGlow - Webflow Ecommerce Website Template": "PureGlow - шаблон інтернет-магазину Webflow",
+    "Blog - PureGlow Webflow Ecommerce Website Template": "Блог - PureGlow, шаблон інтернет-магазину Webflow",
+    "About - PureGlow Webflow Ecommerce Website Template": "Про нас - PureGlow, шаблон інтернет-магазину Webflow",
+    "Shop - PureGlow Webflow Ecommerce Website Template": "Магазин - PureGlow, шаблон інтернет-магазину Webflow",
+    "Category - PureGlow Webflow Ecommerce Website Template": "Категорія - PureGlow, шаблон інтернет-магазину Webflow",
+    "Privacy Policy - PureGlow Webflow Ecommerce Website Template":
+      "Політика конфіденційності - PureGlow, шаблон інтернет-магазину Webflow",
+    "License - PureGlow Webflow Ecommerce Website Template":
+      "Ліцензія - PureGlow, шаблон інтернет-магазину Webflow",
+    "Style Guide - PureGlow Webflow Ecommerce Website Template":
+      "Гайд зі стилю - PureGlow, шаблон інтернет-магазину Webflow",
+    "Change Log - PureGlow Webflow Ecommerce Website Template":
+      "Журнал змін - PureGlow, шаблон інтернет-магазину Webflow",
+    "404 - PureGlow Webflow Ecommerce Website Template":
+      "404 - PureGlow, шаблон інтернет-магазину Webflow",
+    "Sign In - PureGlow Webflow Ecommerce Website Template":
+      "Вхід - PureGlow, шаблон інтернет-магазину Webflow",
+    "Sign Up - PureGlow Webflow Ecommerce Website Template":
+      "Реєстрація - PureGlow, шаблон інтернет-магазину Webflow",
+    "Forget Password - PureGlow Webflow Ecommerce Website Template":
+      "Скидання пароля - PureGlow, шаблон інтернет-магазину Webflow",
+    "Checkout - PureGlow Webflow Ecommerce Website Template":
+      "Оформлення замовлення - PureGlow, шаблон інтернет-магазину Webflow",
     "Discover 50+ naturally pure skincare essentials. Cruelty-free, clinically proven formulas for visible results. Shop serums, cleansers &amp; more.":
       "Відкрийте понад 50 натуральних засобів догляду за шкірою. Без тестування на тваринах, клінічно перевірені формули з помітним результатом. Купуйте сироватки, очищувальні засоби та інше.",
     Home: "Головна",
@@ -491,16 +491,16 @@ const phraseMaps = {
     "Browse our shop for quality essentials. Discover premium skincare products including serums, cleansers, toners, and SPF from Nuvéra.":
       "Переглядайте наш магазин якісних щоденних засобів. Відкрийте преміальні засоби догляду за шкірою, зокрема сироватки, очищувальні засоби, тонери та SPF від Nuvéra.",
     Next: "Далі",
-    "Browse Cleanser products at Nuvera. Discover quality essentials with detailed descriptions and competitive pricing. Shop now!":
-      "Переглядайте засоби для очищення Nuvera. Відкрийте якісні товари з докладними описами та чесними цінами. Купуйте зараз!",
-    "Browse Moisturiser products at Nuvera. Discover quality essentials with detailed descriptions and competitive pricing. Shop now!":
-      "Переглядайте зволожувальні засоби Nuvera. Відкрийте якісні товари з докладними описами та чесними цінами. Купуйте зараз!",
-    "Browse Serum products at Nuvera. Discover quality essentials with detailed descriptions and competitive pricing. Shop now!":
-      "Переглядайте сироватки Nuvera. Відкрийте якісні товари з докладними описами та чесними цінами. Купуйте зараз!",
-    "Browse SPF products at Nuvera. Discover quality essentials with detailed descriptions and competitive pricing. Shop now!":
-      "Переглядайте SPF-засоби Nuvera. Відкрийте якісні товари з докладними описами та чесними цінами. Купуйте зараз!",
-    "Browse Toner products at Nuvera. Discover quality essentials with detailed descriptions and competitive pricing. Shop now!":
-      "Переглядайте тонери Nuvera. Відкрийте якісні товари з докладними описами та чесними цінами. Купуйте зараз!",
+    "Browse Cleanser products at PureGlow. Discover quality essentials with detailed descriptions and competitive pricing. Shop now!":
+      "Переглядайте засоби для очищення PureGlow. Відкрийте якісні товари з докладними описами та чесними цінами. Купуйте зараз!",
+    "Browse Moisturiser products at PureGlow. Discover quality essentials with detailed descriptions and competitive pricing. Shop now!":
+      "Переглядайте зволожувальні засоби PureGlow. Відкрийте якісні товари з докладними описами та чесними цінами. Купуйте зараз!",
+    "Browse Serum products at PureGlow. Discover quality essentials with detailed descriptions and competitive pricing. Shop now!":
+      "Переглядайте сироватки PureGlow. Відкрийте якісні товари з докладними описами та чесними цінами. Купуйте зараз!",
+    "Browse SPF products at PureGlow. Discover quality essentials with detailed descriptions and competitive pricing. Shop now!":
+      "Переглядайте SPF-засоби PureGlow. Відкрийте якісні товари з докладними описами та чесними цінами. Купуйте зараз!",
+    "Browse Toner products at PureGlow. Discover quality essentials with detailed descriptions and competitive pricing. Shop now!":
+      "Переглядайте тонери PureGlow. Відкрийте якісні товари з докладними описами та чесними цінами. Купуйте зараз!",
     "Card Number *": "Номер картки *",
     "Expiration Date *": "Термін дії *",
     "Security Code *": "Код безпеки *",
@@ -571,8 +571,8 @@ const phraseMaps = {
       "Наносьте Daily SPF щедро як останній крок ранкового догляду. Під час перебування на сонці оновлюйте кожні 2 години.",
     "We offer free delivery on orders over $2,000. Standard delivery takes 3-5 business days. Returns accepted within 14 days of purchase in original condition.":
       "Ми пропонуємо безкоштовну доставку для замовлень понад $2,000. Стандартна доставка займає 3-5 робочих днів. Повернення приймається протягом 14 днів за умови збереження початкового стану.",
-    "Daily SPF - Nuvera Webflow Ecommerce Website Template":
-      "Щоденний SPF - Nuvera, шаблон інтернет-магазину Webflow",
+    "Daily SPF - PureGlow Webflow Ecommerce Website Template":
+      "Щоденний SPF - PureGlow, шаблон інтернет-магазину Webflow",
 
     "5 Eco-Friendly Skincare Swaps for a Sustainable Routine":
       "5 екологічних замін у догляді за шкірою для сталої рутини",
@@ -650,32 +650,32 @@ const supplementalPhraseMaps = {
       "Просмотрите условия лицензии, права использования и ограничения для beauty eCommerce-шаблона Nuvéra. Включает файлы проекта, компоненты, поддержку и обновления.",
     "Explore Nuvéra&#x27;s brand style guide including color palette, typography scale, and button variants. Complete design system documentation.":
       "Изучите брендовый гайд Nuvéra: палитру цветов, шкалу типографики и варианты кнопок. Полная документация по дизайн-системе.",
-    "Cleanser - Nuvera Webflow Ecommerce Website Template":
-      "Очищение - Nuvera, шаблон интернет-магазина Webflow",
-    "Moisturiser - Nuvera Webflow Ecommerce Website Template":
-      "Увлажнение - Nuvera, шаблон интернет-магазина Webflow",
-    "Serum - Nuvera Webflow Ecommerce Website Template":
-      "Сыворотка - Nuvera, шаблон интернет-магазина Webflow",
-    "SPF - Nuvera Webflow Ecommerce Website Template":
-      "SPF - Nuvera, шаблон интернет-магазина Webflow",
-    "Toner - Nuvera Webflow Ecommerce Website Template":
-      "Тонер - Nuvera, шаблон интернет-магазина Webflow",
-    "Balancing Toner - Nuvera Webflow Ecommerce Website Template":
-      "Балансирующий тонер - Nuvera, шаблон интернет-магазина Webflow",
-    "Dew Glow Moisturizer - Nuvera Webflow Ecommerce Website Template":
-      "Увлажняющий крем Dew Glow - Nuvera, шаблон интернет-магазина Webflow",
-    "Glow Serum - Nuvera Webflow Ecommerce Website Template":
-      "Сыворотка Glow - Nuvera, шаблон интернет-магазина Webflow",
-    "Hydra Cream - Nuvera Webflow Ecommerce Website Template":
-      "Крем Hydra - Nuvera, шаблон интернет-магазина Webflow",
-    "Pure Cleanser - Nuvera Webflow Ecommerce Website Template":
-      "Очищающее средство Pure - Nuvera, шаблон интернет-магазина Webflow",
-    "Rescue Balm - Nuvera Webflow Ecommerce Website Template":
-      "Восстанавливающий бальзам - Nuvera, шаблон интернет-магазина Webflow",
-    "Soft Skin Body Lotion - Nuvera Webflow Ecommerce Website Template":
-      "Лосьон для тела Soft Skin - Nuvera, шаблон интернет-магазина Webflow",
-    "Velvet Glow Serum - Nuvera Webflow Ecommerce Website Template":
-      "Сыворотка Velvet Glow - Nuvera, шаблон интернет-магазина Webflow",
+    "Cleanser - PureGlow Webflow Ecommerce Website Template":
+      "Очищение - PureGlow, шаблон интернет-магазина Webflow",
+    "Moisturiser - PureGlow Webflow Ecommerce Website Template":
+      "Увлажнение - PureGlow, шаблон интернет-магазина Webflow",
+    "Serum - PureGlow Webflow Ecommerce Website Template":
+      "Сыворотка - PureGlow, шаблон интернет-магазина Webflow",
+    "SPF - PureGlow Webflow Ecommerce Website Template":
+      "SPF - PureGlow, шаблон интернет-магазина Webflow",
+    "Toner - PureGlow Webflow Ecommerce Website Template":
+      "Тонер - PureGlow, шаблон интернет-магазина Webflow",
+    "Balancing Toner - PureGlow Webflow Ecommerce Website Template":
+      "Балансирующий тонер - PureGlow, шаблон интернет-магазина Webflow",
+    "Dew Glow Moisturizer - PureGlow Webflow Ecommerce Website Template":
+      "Увлажняющий крем Dew Glow - PureGlow, шаблон интернет-магазина Webflow",
+    "Glow Serum - PureGlow Webflow Ecommerce Website Template":
+      "Сыворотка Glow - PureGlow, шаблон интернет-магазина Webflow",
+    "Hydra Cream - PureGlow Webflow Ecommerce Website Template":
+      "Крем Hydra - PureGlow, шаблон интернет-магазина Webflow",
+    "Pure Cleanser - PureGlow Webflow Ecommerce Website Template":
+      "Очищающее средство Pure - PureGlow, шаблон интернет-магазина Webflow",
+    "Rescue Balm - PureGlow Webflow Ecommerce Website Template":
+      "Восстанавливающий бальзам - PureGlow, шаблон интернет-магазина Webflow",
+    "Soft Skin Body Lotion - PureGlow Webflow Ecommerce Website Template":
+      "Лосьон для тела Soft Skin - PureGlow, шаблон интернет-магазина Webflow",
+    "Velvet Glow Serum - PureGlow Webflow Ecommerce Website Template":
+      "Сыворотка Velvet Glow - PureGlow, шаблон интернет-магазина Webflow",
     "Daily SPF is a lightweight mineral SPF 50 with zinc oxide and niacinamide for broad-spectrum UV protection and a matte finish.":
       "Daily SPF — это лёгкий минеральный SPF 50 с оксидом цинка и ниацинамидом для широкого УФ-защиты и матового финиша.",
     "Balancing Toner is an alcohol-free formula with centella asiatica and rose water that hydrates and preps skin after every cleanse.":
@@ -805,32 +805,32 @@ const supplementalPhraseMaps = {
       "Перегляньте умови ліцензії, права використання та обмеження для beauty eCommerce-шаблону Nuvéra. Містить файли проєкту, компоненти, підтримку та оновлення.",
     "Explore Nuvéra&#x27;s brand style guide including color palette, typography scale, and button variants. Complete design system documentation.":
       "Ознайомтеся з бренд-гайдом Nuvéra: палітрою кольорів, шкалою типографіки та варіантами кнопок. Повна документація дизайн-системи.",
-    "Cleanser - Nuvera Webflow Ecommerce Website Template":
-      "Очищення - Nuvera, шаблон інтернет-магазину Webflow",
-    "Moisturiser - Nuvera Webflow Ecommerce Website Template":
-      "Зволоження - Nuvera, шаблон інтернет-магазину Webflow",
-    "Serum - Nuvera Webflow Ecommerce Website Template":
-      "Сироватка - Nuvera, шаблон інтернет-магазину Webflow",
-    "SPF - Nuvera Webflow Ecommerce Website Template":
-      "SPF - Nuvera, шаблон інтернет-магазину Webflow",
-    "Toner - Nuvera Webflow Ecommerce Website Template":
-      "Тонер - Nuvera, шаблон інтернет-магазину Webflow",
-    "Balancing Toner - Nuvera Webflow Ecommerce Website Template":
-      "Балансувальний тонер - Nuvera, шаблон інтернет-магазину Webflow",
-    "Dew Glow Moisturizer - Nuvera Webflow Ecommerce Website Template":
-      "Зволожувальний крем Dew Glow - Nuvera, шаблон інтернет-магазину Webflow",
-    "Glow Serum - Nuvera Webflow Ecommerce Website Template":
-      "Сироватка Glow - Nuvera, шаблон інтернет-магазину Webflow",
-    "Hydra Cream - Nuvera Webflow Ecommerce Website Template":
-      "Крем Hydra - Nuvera, шаблон інтернет-магазину Webflow",
-    "Pure Cleanser - Nuvera Webflow Ecommerce Website Template":
-      "Очищувальний засіб Pure - Nuvera, шаблон інтернет-магазину Webflow",
-    "Rescue Balm - Nuvera Webflow Ecommerce Website Template":
-      "Відновлювальний бальзам - Nuvera, шаблон інтернет-магазину Webflow",
-    "Soft Skin Body Lotion - Nuvera Webflow Ecommerce Website Template":
-      "Лосьйон для тіла Soft Skin - Nuvera, шаблон інтернет-магазину Webflow",
-    "Velvet Glow Serum - Nuvera Webflow Ecommerce Website Template":
-      "Сироватка Velvet Glow - Nuvera, шаблон інтернет-магазину Webflow",
+    "Cleanser - PureGlow Webflow Ecommerce Website Template":
+      "Очищення - PureGlow, шаблон інтернет-магазину Webflow",
+    "Moisturiser - PureGlow Webflow Ecommerce Website Template":
+      "Зволоження - PureGlow, шаблон інтернет-магазину Webflow",
+    "Serum - PureGlow Webflow Ecommerce Website Template":
+      "Сироватка - PureGlow, шаблон інтернет-магазину Webflow",
+    "SPF - PureGlow Webflow Ecommerce Website Template":
+      "SPF - PureGlow, шаблон інтернет-магазину Webflow",
+    "Toner - PureGlow Webflow Ecommerce Website Template":
+      "Тонер - PureGlow, шаблон інтернет-магазину Webflow",
+    "Balancing Toner - PureGlow Webflow Ecommerce Website Template":
+      "Балансувальний тонер - PureGlow, шаблон інтернет-магазину Webflow",
+    "Dew Glow Moisturizer - PureGlow Webflow Ecommerce Website Template":
+      "Зволожувальний крем Dew Glow - PureGlow, шаблон інтернет-магазину Webflow",
+    "Glow Serum - PureGlow Webflow Ecommerce Website Template":
+      "Сироватка Glow - PureGlow, шаблон інтернет-магазину Webflow",
+    "Hydra Cream - PureGlow Webflow Ecommerce Website Template":
+      "Крем Hydra - PureGlow, шаблон інтернет-магазину Webflow",
+    "Pure Cleanser - PureGlow Webflow Ecommerce Website Template":
+      "Очищувальний засіб Pure - PureGlow, шаблон інтернет-магазину Webflow",
+    "Rescue Balm - PureGlow Webflow Ecommerce Website Template":
+      "Відновлювальний бальзам - PureGlow, шаблон інтернет-магазину Webflow",
+    "Soft Skin Body Lotion - PureGlow Webflow Ecommerce Website Template":
+      "Лосьйон для тіла Soft Skin - PureGlow, шаблон інтернет-магазину Webflow",
+    "Velvet Glow Serum - PureGlow Webflow Ecommerce Website Template":
+      "Сироватка Velvet Glow - PureGlow, шаблон інтернет-магазину Webflow",
     "Daily SPF is a lightweight mineral SPF 50 with zinc oxide and niacinamide for broad-spectrum UV protection and a matte finish.":
       "Daily SPF — це легкий мінеральний SPF 50 з оксидом цинку та ніацинамідом для широкого захисту від УФ-випромінювання та матового фінішу.",
     "Balancing Toner is an alcohol-free formula with centella asiatica and rose water that hydrates and preps skin after every cleanse.":
@@ -944,8 +944,8 @@ const supplementalPhraseMapsPhase2 = {
     "5. Cookie": "5. Файлы cookie",
     "Beauty Products Crafted": "Создано продуктов",
     "Email:": "Эл. почта:",
-    "Why Plant-Based Extracts Are Transforming Skincare - Nuvera Webflow Ecommerce Website Template":
-      "Почему растительные экстракты меняют уход за кожей - Nuvera, шаблон интернет-магазина Webflow",
+    "Why Plant-Based Extracts Are Transforming Skincare - PureGlow Webflow Ecommerce Website Template":
+      "Почему растительные экстракты меняют уход за кожей - PureGlow, шаблон интернет-магазина Webflow",
     "March 25, 2026": "25 марта 2026",
     "Why Plant-Based Extracts Work So Well": "Почему растительные экстракты работают так хорошо",
     "Unlike isolated synthetic molecules, plant extracts often deliver multiple benefits simultaneously through synergistic action — meaning the whole extract performs better than any single isolated compound within it.":
@@ -1004,8 +1004,8 @@ const supplementalPhraseMapsPhase2 = {
       "Растения содержат сложные биохимические соединения — полифенолы, флавоноиды, терпены, алкалоиды и незаменимые жирные кислоты, — которые миллионы лет развивались для защиты от вреда окружающей среды, УФ-излучения и микробных атак. На коже человека многие из этих соединений выполняют схожие защитные и восстанавливающие функции.",
     "Plant-based skincare is not a step backward — it's a sophisticated, science-backed evolution of how we care for our skin. As clinical research continues to validate centuries of botanical wisdom, the gap between nature and science grows smaller. The best formulas of tomorrow will be those that harness the power of plants with the precision of modern dermatology — delivering real results, responsibly sourced, and kind to every skin type.":
       "Уход за кожей на растительной основе — это не шаг назад, а сложная и научно подтверждённая эволюция того, как мы заботимся о коже. Пока клинические исследования продолжают подтверждать вековую ботаническую мудрость, разрыв между природой и наукой становится всё меньше. Лучшие формулы будущего будут сочетать силу растений с точностью современной дерматологии — давая реальный результат, ответственное происхождение ингредиентов и мягкость для любого типа кожи.",
-    "The Science Behind Clean Beauty: What Your Skin Actually Needs - Nuvera Webflow Ecommerce Website Template":
-      "Наука о чистой косметике: что действительно нужно вашей коже - Nuvera, шаблон интернет-магазина Webflow",
+    "The Science Behind Clean Beauty: What Your Skin Actually Needs - PureGlow Webflow Ecommerce Website Template":
+      "Наука о чистой косметике: что действительно нужно вашей коже - PureGlow, шаблон интернет-магазина Webflow",
     "March 10, 2026": "10 марта 2026",
     "What Does \"Clean Beauty\" Actually Mean?": "Что на самом деле означает «чистая косметика»?",
     "Key Ingredients Driving the Clean Beauty Revolution":
@@ -1028,8 +1028,8 @@ const supplementalPhraseMapsPhase2 = {
     Moisturise: "Увлажнение",
     Protect: "Защита",
     "The Bottom Line": "Главный вывод",
-    "Understanding Your Skin Type: A Beginner's Guide - Nuvera Webflow Ecommerce Website Template":
-      "Как понять свой тип кожи: руководство для начинающих - Nuvera, шаблон интернет-магазина Webflow",
+    "Understanding Your Skin Type: A Beginner's Guide - PureGlow Webflow Ecommerce Website Template":
+      "Как понять свой тип кожи: руководство для начинающих - PureGlow, шаблон интернет-магазина Webflow",
     "March 20, 2026": "20 марта 2026",
     "The Five Primary Skin Types": "Пять основных типов кожи",
     "Normal Skin": "Нормальная кожа",
@@ -1044,8 +1044,8 @@ const supplementalPhraseMapsPhase2 = {
     "5. Cookie": "5. Файли cookie",
     "Beauty Products Crafted": "Створено продуктів",
     "Email:": "Ел. пошта:",
-    "Why Plant-Based Extracts Are Transforming Skincare - Nuvera Webflow Ecommerce Website Template":
-      "Чому рослинні екстракти змінюють догляд за шкірою - Nuvera, шаблон інтернет-магазину Webflow",
+    "Why Plant-Based Extracts Are Transforming Skincare - PureGlow Webflow Ecommerce Website Template":
+      "Чому рослинні екстракти змінюють догляд за шкірою - PureGlow, шаблон інтернет-магазину Webflow",
     "March 25, 2026": "25 березня 2026",
     "Why Plant-Based Extracts Work So Well": "Чому рослинні екстракти працюють так добре",
     "Green Tea Extract (EGCG)": "Екстракт зеленого чаю (EGCG)",
@@ -1054,8 +1054,8 @@ const supplementalPhraseMapsPhase2 = {
     "Bakuchiol — The Natural Retinol Alternative":
       "Бакучіол — натуральна альтернатива ретинолу",
     "The Future Is Rooted in Nature": "Майбутнє вкорінене в природі",
-    "The Science Behind Clean Beauty: What Your Skin Actually Needs - Nuvera Webflow Ecommerce Website Template":
-      "Наука про чисту косметику: що насправді потрібно вашій шкірі - Nuvera, шаблон інтернет-магазину Webflow",
+    "The Science Behind Clean Beauty: What Your Skin Actually Needs - PureGlow Webflow Ecommerce Website Template":
+      "Наука про чисту косметику: що насправді потрібно вашій шкірі - PureGlow, шаблон інтернет-магазину Webflow",
     "March 10, 2026": "10 березня 2026",
     "What Does \"Clean Beauty\" Actually Mean?": "Що насправді означає «чиста косметика»?",
     "Key Ingredients Driving the Clean Beauty Revolution":
@@ -1078,8 +1078,8 @@ const supplementalPhraseMapsPhase2 = {
     Moisturise: "Зволоження",
     Protect: "Захист",
     "The Bottom Line": "Головний висновок",
-    "Understanding Your Skin Type: A Beginner's Guide - Nuvera Webflow Ecommerce Website Template":
-      "Як зрозуміти свій тип шкіри: гід для початківців - Nuvera, шаблон інтернет-магазину Webflow",
+    "Understanding Your Skin Type: A Beginner's Guide - PureGlow Webflow Ecommerce Website Template":
+      "Як зрозуміти свій тип шкіри: гід для початківців - PureGlow, шаблон інтернет-магазину Webflow",
     "March 20, 2026": "20 березня 2026",
     "The Five Primary Skin Types": "П’ять основних типів шкіри",
     "Normal Skin": "Нормальна шкіра",

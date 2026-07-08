@@ -3,8 +3,8 @@ const path = require("path");
 const { translatePhrase } = require("./webflow-i18n-dictionaries");
 
 const projectRoot = process.cwd();
-const sourceRoot = path.resolve(projectRoot, "..", "nuvera-store-webflow-mirror");
-const sourceHtmlRoot = path.join(sourceRoot, "nuvera-store.webflow.io");
+const sourceRoot = path.resolve(projectRoot, "..", "pureglow-store-webflow-mirror");
+const sourceHtmlRoot = path.join(sourceRoot, "pureglow-store.webflow.io");
 const publicWebflowRoot = path.join(projectRoot, "public", "webflow");
 
 const copyRoots = [
@@ -233,7 +233,7 @@ function transformHtml(html, fromHtmlFile, locale) {
 
 function getHead(html) {
   const head = html.match(/<head[^>]*>([\s\S]*?)<\/head>/i)?.[1] ?? "";
-  const title = head.match(/<title>([\s\S]*?)<\/title>/i)?.[1]?.trim() ?? "Nuvera";
+  const title = head.match(/<title>([\s\S]*?)<\/title>/i)?.[1]?.trim() ?? "PureGlow";
   const description = head.match(/<meta\s+content=["']([^"']+)["']\s+name=["']description["']/i)?.[1] ?? "";
   return { title, description };
 }
@@ -297,7 +297,7 @@ function countByExtension(dir) {
 
 function writeReports() {
   const cssFiles = [
-    "cdn.prod.website-files.com/69a6c7b91d1004a13a9f99d8/css/nuvera-store.webflow.shared.fb8b57857.min.css",
+    "cdn.prod.website-files.com/69a6c7b91d1004a13a9f99d8/css/pureglow-store.webflow.shared.fb8b57857.min.css",
   ];
   const jsFiles = [
     "d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js%3Fsite=69a6c7b91d1004a13a9f99d8",

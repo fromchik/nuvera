@@ -46,7 +46,7 @@
 - /ua/* -> Українська
 
 ## CSS files
-- cdn.prod.website-files.com/69a6c7b91d1004a13a9f99d8/css/nuvera-store.webflow.shared.fb8b57857.min.css
+- cdn.prod.website-files.com/69a6c7b91d1004a13a9f99d8/css/pureglow-store.webflow.shared.fb8b57857.min.css
 
 ## JS files
 - d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js%3Fsite=69a6c7b91d1004a13a9f99d8

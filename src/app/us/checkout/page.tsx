@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { RawHtmlBlock } from "@/components/webflow/RawHtmlBlock";
 
 export const metadata: Metadata = {
-  title: "Checkout - Nuvera Webflow Ecommerce Website Template",
+  title: "Checkout - PureGlow Webflow Ecommerce Website Template",
   description: "Complete your purchase securely. Enter shipping and payment details to finalize your order. Multiple shipping options available with secure payment processing.",
 };
 

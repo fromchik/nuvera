@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { RawHtmlBlock } from "@/components/webflow/RawHtmlBlock";
 
 export const metadata: Metadata = {
-  title: "Оформлення замовлення - Nuvera, шаблон інтернет-магазину Webflow",
+  title: "Оформлення замовлення - PureGlow, шаблон інтернет-магазину Webflow",
   description: "Безпечно завершіть покупку. Введіть дані доставки й оплати, щоб оформити замовлення. Доступно кілька способів доставки та захищена обробка платежів.",
 };
 

@@ -10,16 +10,16 @@ const siteUrl =
     : "http://localhost:3001");
 
 export const metadata: Metadata = {
-  title: "Nuvera Naturals - Pure Skincare Ecommerce",
+  title: "PureGlow Naturals - Pure Skincare Ecommerce",
   description:
     "Discover 50+ naturally pure skincare essentials. Cruelty-free, clinically proven formulas for visible results. Shop serums, cleansers & more.",
   metadataBase: new URL(siteUrl),
   openGraph: {
-    title: "Nuvera Naturals - Pure Skincare Ecommerce",
+    title: "PureGlow Naturals - Pure Skincare Ecommerce",
     description:
       "Discover 50+ naturally pure skincare essentials. Cruelty-free, clinically proven formulas for visible results.",
     images: [
-      "/webflow/cdn.prod.website-files.com/69a6c7b91d1004a13a9f99d8/69da806a89e5fb010af6d5f8_Nuvera_Og_Image.png",
+      "/webflow/cdn.prod.website-files.com/69a6c7b91d1004a13a9f99d8/69da806a89e5fb010af6d5f8_PureGlow_Og_Image.png",
     ],
   },
 };
@@ -34,7 +34,7 @@ export default function RootLayout({
       <head>
         <link
           rel="stylesheet"
-          href="/webflow/cdn.prod.website-files.com/69a6c7b91d1004a13a9f99d8/css/nuvera-store.webflow.shared.fb8b57857.min.css"
+          href="/webflow/cdn.prod.website-files.com/69a6c7b91d1004a13a9f99d8/css/pureglow-store.webflow.shared.fb8b57857.min.css"
         />
       </head>
       <body>
