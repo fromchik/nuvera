@@ -10,12 +10,12 @@ const siteUrl =
     : "http://localhost:3001");
 
 export const metadata: Metadata = {
-  title: "Nuvera - Webflow Ecommerce Website Template",
+  title: "Nuvera Naturals - Pure Skincare Ecommerce",
   description:
     "Discover 50+ naturally pure skincare essentials. Cruelty-free, clinically proven formulas for visible results. Shop serums, cleansers & more.",
   metadataBase: new URL(siteUrl),
   openGraph: {
-    title: "Nuvera - Webflow Ecommerce Website Template",
+    title: "Nuvera Naturals - Pure Skincare Ecommerce",
     description:
       "Discover 50+ naturally pure skincare essentials. Cruelty-free, clinically proven formulas for visible results.",
     images: [
